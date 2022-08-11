@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **init-daemon/init-daemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Salut n00b :-p,
+* Pour commencer, pour ce qui ne me connait pas je suis Rxon ou _Ericson_ (je trouve que c'est un peu pareil😄). Ca fait déjà plus de 7 ans que je suis developpeur mais c'est aujourd'hui que j'ai décidé de créer un compte clean et de faire un nouveau départ et des défis⚡.
+* Bref, je suis un administrateur système/réseau et à la fois developpeur. Je developpe en __PHP__, __Python__, __JavaScript__, __TypeScript__, __bash__ et __PowerSheel__
