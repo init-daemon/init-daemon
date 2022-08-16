@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 * Bref, je suis un administrateur système/réseau et à la fois developpeur. Je developpe en __PHP__, __Python__, __JavaScript__, __TypeScript__, __bash__ et __PowerSheel__
 -->
 
-# ✨ Salut 
+<h1 align="center">Hi 👋, I'm Rxon</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=If+You+Control+The+Code;You+Control+The+World;INDRIANJARA+Clovis+Ericson!;&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000">
 </p>
 <div align="center">
-<h1 align="center">Hi 👋, I'm Rxon</h1>
+
 <h3 align="center">A passionate frontend developer from Madagascar</h3>
 
 <h3>Social networks:</h3>
