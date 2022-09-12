@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/rxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rxon" height="30" width="40" /></a>
 <a href="https://app.codesignal.com/profile/init-daemon" target="blank"><img align="center" src="https://app.codesignal.com/img/logos/logo_blue.svg" alt="rxon" height="30" width="40" /></a>
 <a href="https://data.typeracer.com/pit/profile?user=init_daemon" target="blank"><img lign="center" src="https://play.typeracer.com/favicon.ico"></a>
+<a href="https://monkeytype.com/profile/JEqiLMPNqSUCxBWb1Zog02cpxPJ2" target="blank"><img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png"</a>
+ 
 </p>
 
 <h3>Languages and Tools:</h3>
