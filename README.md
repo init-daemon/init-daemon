@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 <div align="center">
 
-<h3 align="center">A passionate frontend developer from Madagascar</h3>
+<h3 align="center">A passionate developer from Madagascar</h3>
 
 <h3>Social networks:</h3>
 <p>
