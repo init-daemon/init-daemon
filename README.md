@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Rxon</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=If+You+Control+The+Code;You+Control+The+World;INDRIANJARA+Clovis+Ericson!;&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=exec+-rf+dream+>>+daemon.init+2>+err.log;If+You+Control+The+Code;You+Control+The+World;INDRIANJARA+Clovis+Ericson!;&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000">
 </p>
 <div align="center">
 
