@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p>
 <a href="https://fb.com/321c.100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rxon" height="30" width="40" /></a>
 <a href="https://www.codingame.com/profile/76b5996d13c1a1299899db5022b94de59271305" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/fr/1/14/CodinGame_Logo.svg" alt="rxon" height="30" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/fr/1/14/CodinGame_Logo.svg" alt="rxon" height="60"/>
 </a>
 <a href="https://www.hackerrank.com/init_daem0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="init_daem0n" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rxon" height="30" width="40" /></a>
